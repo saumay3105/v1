@@ -37,7 +37,7 @@ export default function ProductDetail() {
           <div className="space-y-6">
             <h1 className="text-3xl font-bold text-gray-900">{product.name}</h1>
             <p className="text-2xl font-semibold text-gray-700">
-              ${product.price}
+              Rs. {product.price}
             </p>
             <p className="text-gray-600 leading-relaxed">
               {product.description}

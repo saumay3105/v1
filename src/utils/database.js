@@ -3,7 +3,9 @@ export const data = [
     id: "1",
     name: "Classic Blue Denim Jacket",
     category: "Jackets",
-    images: ["/img1.jpg", "/img2.jpg"],
+    images: [
+      "https://images-cdn.ubuy.ae/6372d87d52de6a61526817c4-men-s-denim-jacket-classic-blue-wash.jpg",
+    ],
     price: "79.99",
     description:
       "A timeless blue denim jacket crafted from premium cotton denim. Features double chest pockets, button cuffs, and a relaxed fit perfect for layering.",
@@ -17,7 +19,9 @@ export const data = [
     id: "2",
     name: "Elegant Black Evening Dress",
     category: "Dresses",
-    images: ["/img1.jpg", "/img2.jpg"],
+    images: [
+      "https://cutedressy.com/cdn/shop/products/O1CN01KOpavV1ktQI7ufBgE__4060994741.jpg?v=1735212648",
+    ],
     price: "149.99",
     description:
       "An elegant black evening dress made of silk blend fabric. Features a fitted waist, subtle V-neckline, and a flowing floor-length skirt ideal for formal events.",
@@ -31,7 +35,9 @@ export const data = [
     id: "3",
     name: "Casual White Cotton T-Shirt",
     category: "T-Shirts",
-    images: ["/img1.jpg", "/img2.jpg"],
+    images: [
+      "https://kingdomofwhite.com/cdn/shop/files/pdp-Thrive_Survive-1_440x.jpg?v=1753949077",
+    ],
     price: "19.99",
     description:
       "A casual white T-shirt made from soft, breathable cotton. Perfect for everyday wear, featuring a classic crew neck and short sleeves.",
@@ -45,7 +51,9 @@ export const data = [
     id: "4",
     name: "Slim Fit Chino Pants",
     category: "Pants",
-    images: ["/img1.jpg", "/img2.jpg"],
+    images: [
+      "https://tigc.in/cdn/shop/files/compress_men-solid-chinos-0622-chino01b-charcoal-black__1.jpg?v=1720712219",
+    ],
     price: "49.99",
     description:
       "Slim fit chino pants made of durable cotton twill fabric. Features slanted side pockets and a zip fly with button closure.",
@@ -59,7 +67,9 @@ export const data = [
     id: "5",
     name: "Cozy Winter Wool Sweater",
     category: "Sweaters",
-    images: ["/img1.jpg", "/img2.jpg"],
+    images: [
+      "https://i.etsystatic.com/9419193/r/il/1ab51d/2828120483/il_570xN.2828120483_n0r7.jpg",
+    ],
     price: "89.99",
     description:
       "A cozy wool sweater perfect for winter. Features ribbed cuffs, hem, and neckline, and a comfortable relaxed fit.",
@@ -73,7 +83,9 @@ export const data = [
     id: "6",
     name: "Floral Print Midi Skirt",
     category: "Skirts",
-    images: ["/img1.jpg", "/img2.jpg"],
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlhbtMXPQdObdhkAYmVXXOHBMKMWIFM7aytg&s",
+    ],
     price: "39.99",
     description:
       "A breezy midi skirt featuring beautiful floral prints and an elastic waistband for comfort.",
@@ -87,7 +99,9 @@ export const data = [
     id: "7",
     name: "Leather Crossbody Bag",
     category: "Accessories",
-    images: ["/img1.jpg", "/img2.jpg"],
+    images: [
+      "https://thebicyclist.in/cdn/shop/files/The_Bicyclist_Quilted_Mobile_Crossbody_Sling_Purse_Pouch_Bag_in_Brown_Leather_Beetle_4.webp?v=1741754788",
+    ],
     price: "129.99",
     description:
       "A stylish leather crossbody bag with adjustable strap and multiple compartments for daily essentials.",
@@ -101,7 +115,9 @@ export const data = [
     id: "8",
     name: "Graphic Crew Neck Sweatshirt",
     category: "Sweaters",
-    images: ["/img1.jpg", "/img2.jpg"],
+    images: [
+      "https://www.converse.in/media/catalog/product/1/0/10027103-a01_a_107x1.jpg",
+    ],
     price: "54.99",
     description:
       "A comfortable crew neck sweatshirt featuring an eye-catching graphic. Made from soft, pre-shrunk cotton blend.",
@@ -115,7 +131,7 @@ export const data = [
     id: "9",
     name: "Slim Fit Black Jeans",
     category: "Pants",
-    images: ["/img1.jpg", "/img2.jpg"],
+    images: ["https://pantproject.com/cdn/shop/files/DSC6905.jpg?v=1753341858"],
     price: "69.99",
     description:
       "Classic slim fit black jeans with five-pocket styling and a zip fly. Ideal for casual or smart casual looks.",
@@ -129,7 +145,7 @@ export const data = [
     id: "10",
     name: "Striped Long Sleeve Shirt",
     category: "T-Shirts",
-    images: ["/img1.jpg", "/img2.jpg"],
+    images: ["https://www.jackwills.com/images/imgzoom/55/55142418_xxl.jpg"],
     price: "29.99",
     description:
       "Long sleeve shirt with classic horizontal stripes. Made with breathable cotton fabric, perfect for layering or standalone wear.",
@@ -143,7 +159,9 @@ export const data = [
     id: "11",
     name: "Men's Waterproof Raincoat",
     category: "Jackets",
-    images: ["/img1.jpg", "/img2.jpg"],
+    images: [
+      "https://5.imimg.com/data5/ECOM/Default/2023/3/294083481/OC/VC/RC/33714354/duckback-waterproof-hooded-long-raincoat-men-in-a-storage-bag-romanonxcom-645750-500x500.jpg",
+    ],
     price: "99.99",
     description:
       "Waterproof raincoat with adjustable hood and zip closures. Lightweight yet durable, ideal for rainy days.",
@@ -157,7 +175,9 @@ export const data = [
     id: "12",
     name: "Pleated Black Maxi Skirt",
     category: "Skirts",
-    images: ["/img1.jpg", "/img2.jpg"],
+    images: [
+      "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10308581/2023/9/16/962e9525-0882-4054-8fff-834c1843fb791694840701150-SASSAFRAS-Black-Accordian-Pleat-Maxi-Flared-Skirt-9531694840-1.jpg",
+    ],
     price: "44.99",
     description:
       "Elegant black maxi skirt featuring soft pleats and an elastic waistband. Perfect for both casual and formal occasions.",
@@ -185,7 +205,7 @@ export const data = [
     id: "14",
     name: "Women’s Faux Leather Leggings",
     category: "Pants",
-    images: ["/img1.jpg", "/img2.jpg"],
+    images: ["https://m.media-amazon.com/images/I/8113EBv64ML._UY1100_.jpg"],
     price: "59.99",
     description:
       "Stylish faux leather leggings with high elasticity for a snug fit. Perfect for casual outings or nights out.",
@@ -199,7 +219,7 @@ export const data = [
     id: "15",
     name: "Chunky Knit Winter Scarf",
     category: "Accessories",
-    images: ["/img1.jpg", "/img2.jpg"],
+    images: ["https://m.media-amazon.com/images/I/71pQGq3wSoL.jpg"],
     price: "24.99",
     description:
       "Warm chunky knit scarf made from soft acrylic fibers. Available in multiple colors to match your winter wardrobe.",
@@ -213,7 +233,9 @@ export const data = [
     id: "16",
     name: "Men’s Classic White Dress Shirt",
     category: "Shirts",
-    images: ["/img1.jpg", "/img2.jpg"],
+    images: [
+      "https://image.hm.com/assets/hm/de/8d/de8d970053aa7b79535794749479a6f5b70e6e21.jpg?imwidth=1536",
+    ],
     price: "45.99",
     description:
       "Button-up dress shirt in crisp white cotton. Perfect for formal or business casual wear.",
@@ -227,7 +249,9 @@ export const data = [
     id: "17",
     name: "Red Hooded Fleece Jacket",
     category: "Jackets",
-    images: ["/img1.jpg", "/img2.jpg"],
+    images: [
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSe4oDEvCnNt7cKzRnD65i33H82i99CD5LEPiUeDTmteY1VAeQG1qMO32KT_j0P4-BRxqwB4YL8BENgdYNqcH-ZaynlqaWoH3SJ26Q8z8A",
+    ],
     price: "69.99",
     description:
       "Soft fleece jacket with zipper closure and a warm hood. Perfect for chilly days and outdoor activities.",
@@ -241,7 +265,9 @@ export const data = [
     id: "18",
     name: "Striped Summer Tank Top",
     category: "T-Shirts",
-    images: ["/img1.jpg", "/img2.jpg"],
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgmIMX65rcXtUvmwRbRdBBLIKETHReZ7WBiA&s",
+    ],
     price: "14.99",
     description:
       "Lightweight striped tank top made with breathable cotton fabric, perfect for hot summer days.",
@@ -255,7 +281,9 @@ export const data = [
     id: "19",
     name: "High-Waisted Denim Shorts",
     category: "Pants",
-    images: ["/img1.jpg", "/img2.jpg"],
+    images: [
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSvEIVe6O4yXE3JQQcfkY8_vMl7jXsRDA7l4Eolos2aRIB2WlUoQ_hPW_94R_D7DzgfLjeDS_L-1WxraE32sppM7ATRakkGussOt8dp2orrKU83PGUMtZeWQg0",
+    ],
     price: "34.99",
     description:
       "Classic high-waisted denim shorts with frayed edges and five-pocket styling.",
@@ -269,7 +297,9 @@ export const data = [
     id: "20",
     name: "Women’s Soft Knit Cardigan",
     category: "Sweaters",
-    images: ["/img1.jpg", "/img2.jpg"],
+    images: [
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT5H6ggivrmwXYuFwdJh0IFjbxIO4gciaAC0GWRaoEuV7TMUaTnD9Q2HhtLiVA-asycnwNCcvZwDfDBSJivfgTpnTOfA9TdimtoMRR01iBQ",
+    ],
     price: "54.99",
     description:
       "Soft knit cardigan with button closure and relaxed fit. Perfect layering piece for any season.",
@@ -283,7 +313,9 @@ export const data = [
     id: "21",
     name: "Women's Satin Slip Dress",
     category: "Dresses",
-    images: ["/img1.jpg", "/img2.jpg"],
+    images: [
+      "https://mynomad.in/cdn/shop/files/STNBGE3.3.jpg?v=1702401153&width=900",
+    ],
     price: "99.99",
     description:
       "Sleek satin slip dress with adjustable spaghetti straps and side slit. Ideal for elegant evening wear.",
@@ -297,7 +329,9 @@ export const data = [
     id: "22",
     name: "Men’s Thermal Long Underwear",
     category: "Underwear",
-    images: ["/img1.jpg", "/img2.jpg"],
+    images: [
+      "https://www.britishthermals.com/cdn/shop/products/R803PS-W_2eaf230a-d861-4dd7-9bd8-4b73b3a85d3b_2000x.jpg",
+    ],
     price: "29.99",
     description:
       "Thermal long underwear providing ultimate warmth and comfort. Made from soft, moisture-wicking fabric.",
@@ -311,7 +345,9 @@ export const data = [
     id: "23",
     name: "Classic Leather Belt",
     category: "Accessories",
-    images: ["/img1.jpg", "/img2.jpg"],
+    images: [
+      "https://thebicyclist.in/cdn/shop/products/classic-formal-black-leather-belt-bicyclistshop-leather-goods-356910.jpg?v=1654944904",
+    ],
     price: "39.99",
     description:
       "Genuine leather belt with metal buckle. Suitable for formal and casual wear.",
@@ -326,8 +362,7 @@ export const data = [
     name: "Men’s Casual Hoodie",
     category: "Sweaters",
     images: [
-      "/img1.jpg",
-      "/img2.jpg",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTen1-F6qhzPYMpkuXG8Odba8ZLlJa5aTMth_lzewlZgCn7dJCvTDwE9RhLkWIOV9W3jkZZGh1iB_4ujuF2UzYdekIpIzsi7yC5cKri0hjncSGB-U60ZwgzSg",
     ],
     price: "49.99",
     description:
@@ -342,10 +377,7 @@ export const data = [
     id: "25",
     name: "Women’s Wrap Around Blouse",
     category: "Shirts",
-    images: [
-      "/img1.jpg",
-      "/img2.jpg",
-    ],
+    images: ["https://m.media-amazon.com/images/I/71A3q+w04ZL.jpg"],
     price: "44.99",
     description:
       "Stylish wrap-around blouse with tie waist and relaxed fit. Breathable fabric for everyday wear.",
@@ -360,8 +392,7 @@ export const data = [
     name: "Men’s Running Shorts",
     category: "Pants",
     images: [
-      "/img1.jpg",
-      "/img2.jpg",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR0O-dK78ImOGbVBcPQS7sJkv-8v8f0nKqJrW8BhM8Nq9Rfr9NfRMfRfdEFwAL6brI5zkiPqagiQegbp3i9DnAM8b2t3sgQeXuaLRjuEPafHGqnB8EjE52g",
     ],
     price: "24.99",
     description:
@@ -377,8 +408,7 @@ export const data = [
     name: "Women’s Denim Shirt Dress",
     category: "Dresses",
     images: [
-      "/img1.jpg",
-      "/img2.jpg",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS-VIlLED1mTjSVobI5BUcTA7ILpsWdkqNseZQJoNKJdX93Zpkxtjxlf0QkNfaNFvu1NCY7A4W17AxsF22v7y8uGz-NQNpCm-wBnIG5i5g58L31DsKI75smoQ",
     ],
     price: "69.99",
     description:
@@ -394,8 +424,7 @@ export const data = [
     name: "Leather Ankle Boots",
     category: "Shoes",
     images: [
-      "/img1.jpg",
-      "/img2.jpg",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ1CbDxIzMQ33o3UTPPnPPYW64zysjNQ3t8n86LV2yps9qUeEC04kLVz-jLUI9bHpEaHZutSfjchr4D4WuBQXzVo21NB6cNJrCCRVeBFgc1i4upjbwK3ame6ik",
     ],
     price: "139.99",
     description:
@@ -411,8 +440,7 @@ export const data = [
     name: "Men’s Classic Henley Shirt",
     category: "Shirts",
     images: [
-      "/img1.jpg",
-      "/img2.jpg",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOmefyKo9i5sgddi3xZWc4FKeuC-G6C_lrDur4JwNEvoRQ6rCBcqwIZ0pciWq-falKJo2Fc8KTHhNXMn_pCZbWZc9X5Fvkva6NZuVEwEAG38CWOWYm21PnDw",
     ],
     price: "29.99",
     description:
@@ -428,8 +456,7 @@ export const data = [
     name: "Casual Slip-On Sneakers",
     category: "Shoes",
     images: [
-      "/img1.jpg",
-      "/img2.jpg",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQb-B7dC9wcNAUcv8zFgXVVTjhXFligIXcsd57ADIaqHfagY7GAg2v1RRp8e9YFebrpjvb5_p5ehjMlxiiYDbPVrpxbi9rTlz5FZn8KaxgEGl1ux04Neu4bZKw",
     ],
     price: "59.99",
     description:
@@ -445,8 +472,7 @@ export const data = [
     name: "Women's Cotton Wrap Skirt",
     category: "Skirts",
     images: [
-      "/img1.jpg",
-      "/img2.jpg",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQmUIUQhjBJ8elTsaf7JwA2v9tVit_DuzCmWzB2pcr7YZstzkmhPHj2PYR7IXDFyOhX7w3j-bnuWd-6MNcKf2xAv0tJi328qSbTILucRgX7QE0zj1VUAG0o",
     ],
     price: "39.99",
     description:
@@ -462,8 +488,7 @@ export const data = [
     name: "Men’s Quilted Vest",
     category: "Jackets",
     images: [
-      "/img1.jpg",
-      "/img2.jpg",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSHwaLukxqIZYKitJV-AE1febI1eGnI_lzHFW9uvUg51AqKGfpwgOy2B_oAoU4rzckRG4kzSvNx-63-S6KWBb4NV4JB35R6BWZwbOlD3B5J-c9nqj1xclO8",
     ],
     price: "59.99",
     description:
@@ -479,8 +504,7 @@ export const data = [
     name: "Women's Lightweight Blazer",
     category: "Jackets",
     images: [
-      "/img1.jpg",
-      "/img2.jpg",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8WoeOlKTAeEx-gxFHGIjRzhzJUDeD0xZ7Me_Uekrc_mjAHPKjGs8A__6nH4Oh1AfN5gGcPHSYLDGCq_u9xMzM8Umyb6rf4KAg-9Z6W2WEr9blLRThBoXk",
     ],
     price: "89.99",
     description:
@@ -496,8 +520,7 @@ export const data = [
     name: "Faux Fur Winter Coat",
     category: "Jackets",
     images: [
-      "/img1.jpg",
-      "/img2.jpg",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTcIQXPETAkH-ylHN8IjLGAafH74Dpzz5WEfZTodR6vOCXd0KGbfanZsbHKVTzmtbuDbj20bO0klP4ExmzxwTkueERKpmWDI1dz3mZSwDU",
     ],
     price: "199.99",
     description:
@@ -512,10 +535,7 @@ export const data = [
     id: "35",
     name: "Men’s Casual Canvas Backpack",
     category: "Accessories",
-    images: [
-      "/img1.jpg",
-      "/img2.jpg",
-    ],
+    images: ["https://m.media-amazon.com/images/I/51FerAvtoLL._UY1100_.jpg"],
     price: "79.99",
     description:
       "Durable canvas backpack with multiple compartments and padded shoulder straps. Great for daily use.",

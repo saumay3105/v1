@@ -15,7 +15,7 @@ export default function ProductList() {
             key={product.id}
             className="group bg-white shadow-md rounded-xl overflow-hidden hover:shadow-xl transition border border-gray-100"
           >
-            <div className="aspect-w-1 aspect-h-1 w-full overflow-hidden">
+            <div className="aspect-square w-full overflow-hidden bg-gray-100">
               <img
                 src={product.images[0]}
                 alt={product.name}
@@ -26,7 +26,7 @@ export default function ProductList() {
               <h2 className="text-lg font-semibold text-gray-800 mb-1">
                 {product.name}
               </h2>
-              <p className="text-gray-500">${product.price}</p>
+              <p className="text-gray-500">Rs. {product.price}</p>
             </div>
           </Link>
         ))}
