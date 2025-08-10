@@ -8,7 +8,7 @@ export const data = [
     ],
     price: "79.99",
     description:
-      "A timeless blue denim jacket crafted from premium cotton denim. Features double chest pockets, button cuffs, and a relaxed fit perfect for layering.",
+      "A timeless blue denim jacket crafted from premium 100% cotton denim with authentic stone-washed finish. Features classic design elements including double chest pockets with button flaps, adjustable button cuffs, and a relaxed fit perfect for layering over t-shirts, hoodies, or sweaters. The medium blue wash offers versatility for both casual weekend wear and smart-casual occasions. Ideal for spring and fall weather, this jacket pairs excellently with chinos, jeans, or casual pants. The durable construction ensures long-lasting wear while the breathable cotton fabric provides comfort throughout the day. Perfect for outdoor activities, casual dates, or everyday street style.",
     sizes: ["S", "M", "L", "XL"],
     colors: ["Blue"],
     material: "100% Cotton Denim",
@@ -24,7 +24,7 @@ export const data = [
     ],
     price: "149.99",
     description:
-      "An elegant black evening dress made of silk blend fabric. Features a fitted waist, subtle V-neckline, and a flowing floor-length skirt ideal for formal events.",
+      "An sophisticated black evening dress crafted from luxurious silk blend fabric with a subtle sheen. Features an elegant fitted waist that flatters the silhouette, a tasteful V-neckline that elongates the neck, and a gracefully flowing floor-length skirt that moves beautifully with each step. Perfect for formal events, black-tie occasions, cocktail parties, galas, or special celebrations. The premium silk blend offers comfort and breathability while maintaining an upscale appearance. The classic black color ensures timeless elegance and easy styling with various accessories. Ideal for evening weddings, opera nights, formal dinners, or any occasion requiring sophisticated attire. The dress's versatile design allows for styling with statement jewelry, elegant heels, and evening clutches.",
     sizes: ["XS", "S", "M", "L"],
     colors: ["Black"],
     material: "Silk Blend",
@@ -40,7 +40,7 @@ export const data = [
     ],
     price: "19.99",
     description:
-      "A casual white T-shirt made from soft, breathable cotton. Perfect for everyday wear, featuring a classic crew neck and short sleeves.",
+      "A versatile white cotton t-shirt made from soft, breathable 100% cotton fabric that feels gentle against the skin. Features a classic crew neckline and comfortable short sleeves with a relaxed fit that works for all body types. This wardrobe essential is perfect for everyday wear, layering under jackets or cardigans, workout sessions, casual outings, or lounging at home. The crisp white color pairs effortlessly with any bottom - jeans, shorts, skirts, or joggers. Ideal for spring and summer weather, beach trips, casual Fridays, or as an undershirt. The pre-shrunk cotton ensures lasting fit and the reinforced seams provide durability for frequent washing. A must-have basic that works for men and women of all ages.",
     sizes: ["S", "M", "L", "XL", "XXL"],
     colors: ["White"],
     material: "100% Cotton",
@@ -56,7 +56,7 @@ export const data = [
     ],
     price: "49.99",
     description:
-      "Slim fit chino pants made of durable cotton twill fabric. Features slanted side pockets and a zip fly with button closure.",
+      "Modern slim fit chino pants crafted from durable cotton twill fabric with 2% elastane for comfortable stretch and movement. Features a contemporary tapered cut that flatters the leg, slanted side pockets for practicality, and a clean zip fly with button closure. Available in versatile colors including beige, navy, and olive that coordinate with any shirt or jacket. Perfect for business casual environments, smart casual events, date nights, or weekend outings. The breathable cotton blend makes these suitable for year-round wear. Easily dressed up with button-down shirts and blazers or down with t-shirts and sneakers. Ideal for office workers, students, or anyone seeking polished casual style. The wrinkle-resistant fabric maintains a crisp appearance throughout the day.",
     sizes: ["30", "32", "34", "36", "38"],
     colors: ["Beige", "Navy", "Olive"],
     material: "98% Cotton, 2% Elastane",
@@ -72,7 +72,7 @@ export const data = [
     ],
     price: "89.99",
     description:
-      "A cozy wool sweater perfect for winter. Features ribbed cuffs, hem, and neckline, and a comfortable relaxed fit.",
+      "A luxuriously soft wool sweater perfect for cold winter days and cozy evenings. Made from an 80% wool and 20% nylon blend that provides exceptional warmth while remaining lightweight and comfortable. Features classic ribbed cuffs, hem, and neckline for a polished finish, with a relaxed fit that allows for easy layering over shirts or under jackets. Available in sophisticated colors including grey, charcoal, and cream that complement any winter wardrobe. Ideal for holiday gatherings, winter walks, fireside evenings, or professional settings during colder months. The natural wool fibers provide excellent insulation and breathability, while the nylon content adds durability and shape retention. Perfect for layering over collared shirts or wearing alone with jeans or dress pants.",
     sizes: ["S", "M", "L", "XL"],
     colors: ["Grey", "Charcoal", "Cream"],
     material: "80% Wool, 20% Nylon",
@@ -88,7 +88,7 @@ export const data = [
     ],
     price: "39.99",
     description:
-      "A breezy midi skirt featuring beautiful floral prints and an elastic waistband for comfort.",
+      "A feminine midi skirt featuring beautiful botanical floral prints that capture the essence of spring and summer. Made from lightweight 100% viscose fabric that drapes elegantly and feels comfortable against the skin. Features a convenient elastic waistband for all-day comfort and easy fit. The midi length hits at the perfect spot between knee and ankle, creating an elegant silhouette suitable for various occasions. Available in charming pink floral and blue floral patterns that pair beautifully with solid tops. Perfect for brunch dates, garden parties, casual office settings, vacation wear, or weekend shopping trips. Easily styled with blouses, t-shirts, cardigans, or denim jackets. The flowing design makes it ideal for warm weather while the versatile patterns complement sandals, flats, or low heels.",
     sizes: ["XS", "S", "M", "L"],
     colors: ["Pink Floral", "Blue Floral"],
     material: "100% Viscose",
@@ -104,7 +104,7 @@ export const data = [
     ],
     price: "129.99",
     description:
-      "A stylish leather crossbody bag with adjustable strap and multiple compartments for daily essentials.",
+      "A sophisticated crossbody bag crafted from genuine leather with rich texture and premium quality construction. Features an adjustable shoulder strap for customized comfort, multiple interior compartments for organization, and secure zipper closures to keep belongings safe. The compact yet spacious design accommodates daily essentials including phone, wallet, keys, and small personal items. Available in classic brown and black colors that complement any outfit. Perfect for hands-free convenience during shopping trips, travel, work commutes, or evening outings. The timeless design works equally well for casual and professional settings. The durable leather construction ensures long-lasting use while developing a beautiful patina over time. Ideal for busy professionals, travelers, students, or anyone who appreciates quality craftsmanship and functional style.",
     sizes: [],
     colors: ["Brown", "Black"],
     material: "Genuine Leather",
@@ -120,7 +120,7 @@ export const data = [
     ],
     price: "54.99",
     description:
-      "A comfortable crew neck sweatshirt featuring an eye-catching graphic. Made from soft, pre-shrunk cotton blend.",
+      "A comfortable crew neck sweatshirt featuring an eye-catching graphic design that adds personality to casual outfits. Made from a soft 80% cotton and 20% polyester blend that provides warmth without bulk. The pre-shrunk fabric ensures consistent fit after washing, while the fleece lining offers cozy comfort for cooler days. Available in versatile colors including white, black, and red that coordinate with various bottoms. Perfect for casual Fridays, weekend activities, gym sessions, college life, or relaxed social gatherings. The classic crew neck design and relaxed fit make it suitable for layering over t-shirts or under jackets. Ideal for expressing personal style while maintaining comfort during daily activities, study sessions, or casual meetups with friends.",
     sizes: ["S", "M", "L", "XL", "XXL"],
     colors: ["White", "Black", "Red"],
     material: "80% Cotton, 20% Polyester",
@@ -134,7 +134,7 @@ export const data = [
     images: ["https://pantproject.com/cdn/shop/files/DSC6905.jpg?v=1753341858"],
     price: "69.99",
     description:
-      "Classic slim fit black jeans with five-pocket styling and a zip fly. Ideal for casual or smart casual looks.",
+      "Classic slim fit black jeans crafted from premium denim with 99% cotton and 1% elastane for the perfect balance of structure and comfort. Features authentic five-pocket styling, a secure zip fly closure, and a modern slim cut that flatters without being restrictive. The deep black color offers versatility for both casual and smart-casual occasions, easily transitioning from day to night. Perfect for date nights, casual Fridays, weekend outings, concerts, or any occasion requiring effortless style. Pairs excellently with t-shirts, button-downs, sweaters, or blazers. The stretch denim construction allows for comfortable movement throughout the day while maintaining shape retention. Ideal for creating polished casual looks or edgy street style outfits.",
     sizes: ["28", "30", "32", "34", "36"],
     colors: ["Black"],
     material: "99% Cotton, 1% Elastane",
@@ -148,7 +148,7 @@ export const data = [
     images: ["https://www.jackwills.com/images/imgzoom/55/55142418_xxl.jpg"],
     price: "29.99",
     description:
-      "Long sleeve shirt with classic horizontal stripes. Made with breathable cotton fabric, perfect for layering or standalone wear.",
+      "A classic long sleeve shirt featuring timeless horizontal stripes that add visual interest to any outfit. Made from breathable 100% cotton fabric that feels soft against the skin and allows for comfortable all-day wear. The versatile design works perfectly for layering under jackets, cardigans, or vests, or as a standalone piece. Available in nautical-inspired blue/white and red/white stripe combinations that evoke classic maritime style. Perfect for transitional seasons, casual office settings, weekend activities, or creating preppy-inspired looks. The long sleeves provide coverage for cooler weather while the cotton construction remains comfortable in mild temperatures. Ideal for pairing with jeans, chinos, skirts, or shorts depending on the season and occasion.",
     sizes: ["S", "M", "L", "XL"],
     colors: ["Blue/White", "Red/White"],
     material: "100% Cotton",
@@ -164,7 +164,7 @@ export const data = [
     ],
     price: "99.99",
     description:
-      "Waterproof raincoat with adjustable hood and zip closures. Lightweight yet durable, ideal for rainy days.",
+      "A high-performance waterproof raincoat designed to keep you dry and comfortable in wet weather conditions. Features a fully waterproof polyester construction with sealed seams, an adjustable hood for customized coverage, and secure zip closures to prevent water entry. Despite being completely waterproof, the lightweight design ensures comfortable wear without feeling bulky or restrictive. Available in high-visibility yellow and classic navy colors for both safety and style. Perfect for outdoor workers, commuters, hikers, festival-goers, or anyone who spends time outdoors in unpredictable weather. The packable design allows for easy storage in bags or cars for emergency use. Ideal for rainy season protection, outdoor adventures, or daily wear during wet weather periods.",
     sizes: ["M", "L", "XL", "XXL"],
     colors: ["Yellow", "Navy"],
     material: "Polyester",
@@ -180,7 +180,7 @@ export const data = [
     ],
     price: "44.99",
     description:
-      "Elegant black maxi skirt featuring soft pleats and an elastic waistband. Perfect for both casual and formal occasions.",
+      "An elegant black maxi skirt featuring sophisticated accordion pleats that create beautiful movement and texture. Made from comfortable polyester blend fabric that drapes beautifully and resists wrinkles for all-day wear. The floor-length design and elastic waistband ensure both comfort and style, while the timeless black color offers endless styling possibilities. Perfect for transitioning from casual daytime activities to formal evening events with simple accessory changes. Ideal for office settings, dinner dates, cultural events, wedding guest attire, or any occasion requiring polished elegance. Pairs beautifully with blouses, sweaters, fitted tops, or blazers. The flowing silhouette flatters various body types while the pleated design adds visual interest and movement to any outfit.",
     sizes: ["S", "M", "L"],
     colors: ["Black"],
     material: "Polyester Blend",
@@ -194,7 +194,7 @@ export const data = [
     images: ["/img1.jpg", "/img2.jpg"],
     price: "34.99",
     description:
-      "Classic polo shirt with a two-button placket and ribbed collar. Soft cotton blend fabric for comfort.",
+      "A classic polo shirt combining comfort and style with a traditional two-button placket and ribbed collar design. Made from premium 95% cotton and 5% elastane blend that provides softness, breathability, and slight stretch for comfortable movement. The timeless design works perfectly for business casual environments, golf outings, weekend activities, or smart casual occasions. Available in versatile white, navy, and grey colors that coordinate with various bottoms from chinos to jeans. The polo's refined appearance bridges the gap between casual t-shirts and formal dress shirts, making it perfect for country club events, casual Fridays, summer gatherings, or vacation wear. The moisture-wicking properties and breathable fabric make it ideal for warm weather activities while maintaining a polished appearance.",
     sizes: ["S", "M", "L", "XL", "XXL"],
     colors: ["White", "Navy", "Grey"],
     material: "95% Cotton, 5% Elastane",
@@ -203,12 +203,12 @@ export const data = [
   },
   {
     id: "14",
-    name: "Women’s Faux Leather Leggings",
+    name: "Women's Faux Leather Leggings",
     category: "Pants",
     images: ["https://m.media-amazon.com/images/I/8113EBv64ML._UY1100_.jpg"],
     price: "59.99",
     description:
-      "Stylish faux leather leggings with high elasticity for a snug fit. Perfect for casual outings or nights out.",
+      "Stylish faux leather leggings crafted from high-quality polyurethane and nylon blend that mimics the look of genuine leather while providing superior comfort and flexibility. Features a high-waisted design for a flattering silhouette, excellent elasticity for a snug yet comfortable fit, and a sleek finish that adds edge to any outfit. Perfect for creating bold fashion statements, night out looks, concert attire, or adding rock-chic elements to casual ensembles. The stretch fabric allows for comfortable movement during daily activities while maintaining the structured appearance of leather. Ideal for pairing with oversized sweaters, fitted tops, blazers, or leather jackets. Perfect for fashion-forward individuals who want to incorporate edgy elements into their wardrobe without sacrificing comfort or breaking the budget.",
     sizes: ["S", "M", "L"],
     colors: ["Black"],
     material: "Polyurethane and Nylon Blend",
@@ -222,7 +222,7 @@ export const data = [
     images: ["https://m.media-amazon.com/images/I/71pQGq3wSoL.jpg"],
     price: "24.99",
     description:
-      "Warm chunky knit scarf made from soft acrylic fibers. Available in multiple colors to match your winter wardrobe.",
+      "A cozy chunky knit scarf made from soft 100% acrylic fibers that provide exceptional warmth without the weight or care requirements of wool. Features a thick, textured knit pattern that adds visual interest and insulation properties perfect for cold winter days. The generous length allows for multiple styling options including traditional draping, loop wrapping, or blanket-style coverage. Available in versatile colors including grey, red, and navy that complement various winter coats and outerwear. Perfect for outdoor winter activities, daily commutes in cold weather, holiday travel, or cozy indoor styling. The hypoallergenic acrylic material is easy to care for and maintains softness after washing. Ideal for layering over coats, jackets, or sweaters to add both warmth and style to winter outfits.",
     sizes: [],
     colors: ["Grey", "Red", "Navy"],
     material: "100% Acrylic",
@@ -231,14 +231,14 @@ export const data = [
   },
   {
     id: "16",
-    name: "Men’s Classic White Dress Shirt",
+    name: "Men's Classic White Dress Shirt",
     category: "Shirts",
     images: [
       "https://image.hm.com/assets/hm/de/8d/de8d970053aa7b79535794749479a6f5b70e6e21.jpg?imwidth=1536",
     ],
     price: "45.99",
     description:
-      "Button-up dress shirt in crisp white cotton. Perfect for formal or business casual wear.",
+      "A premium white dress shirt crafted from crisp 100% cotton fabric that maintains a professional appearance throughout the day. Features a classic point collar, button-up front, and precise tailoring that creates a sharp, polished look suitable for business and formal occasions. The breathable cotton construction ensures comfort during long work days while the wrinkle-resistant finish helps maintain a crisp appearance. Essential for professional wardrobes, job interviews, formal events, wedding attire, or any occasion requiring sophisticated dress. The versatile white color pairs perfectly with any suit, tie, or blazer combination. Available in multiple collar sizes for proper fit and comfort. Perfect for business professionals, formal event attendees, or anyone building a foundation of quality wardrobe essentials.",
     sizes: ["15", "15.5", "16", "16.5", "17"],
     colors: ["White"],
     material: "100% Cotton",
@@ -254,7 +254,7 @@ export const data = [
     ],
     price: "69.99",
     description:
-      "Soft fleece jacket with zipper closure and a warm hood. Perfect for chilly days and outdoor activities.",
+      "A comfortable fleece jacket made from soft 100% polyester fleece that provides excellent insulation and warmth for cool weather activities. Features a full-zip closure for easy layering, a cozy hood for additional warmth and weather protection, and a relaxed fit that allows for comfortable movement. The vibrant red color adds energy to outdoor activities while remaining visible during low-light conditions. Perfect for hiking, camping, outdoor sports, casual weekend wear, or as a cozy layer for indoor activities. The lightweight fleece construction offers warmth without bulk, making it ideal for layering under heavier coats or wearing alone during mild weather. Excellent for outdoor enthusiasts, active individuals, or anyone seeking comfortable warmth for chilly days and evenings.",
     sizes: ["S", "M", "L", "XL"],
     colors: ["Red"],
     material: "100% Polyester Fleece",
@@ -270,7 +270,7 @@ export const data = [
     ],
     price: "14.99",
     description:
-      "Lightweight striped tank top made with breathable cotton fabric, perfect for hot summer days.",
+      "A lightweight striped tank top made from breathable 100% cotton fabric that keeps you cool and comfortable during hot summer days. Features classic horizontal stripes in fresh color combinations and a relaxed fit that flatters various body types. The sleeveless design allows for maximum airflow while the cotton construction wicks moisture naturally. Available in refreshing blue/white and green/white stripe patterns that evoke coastal and nautical themes. Perfect for beach days, summer festivals, vacation wear, poolside lounging, or layering under light cardigans and jackets. The versatile design pairs beautifully with shorts, skirts, capri pants, or summer dresses as a layering piece. Ideal for hot weather activities, travel, or building a comfortable summer wardrobe on a budget.",
     sizes: ["XS", "S", "M", "L"],
     colors: ["Blue/White", "Green/White"],
     material: "100% Cotton",
@@ -286,7 +286,7 @@ export const data = [
     ],
     price: "34.99",
     description:
-      "Classic high-waisted denim shorts with frayed edges and five-pocket styling.",
+      "Classic high-waisted denim shorts crafted from premium 100% cotton denim with a flattering vintage-inspired cut. Features authentic five-pocket styling, trendy frayed hem edges that add casual character, and a high-rise waist that elongates the legs and accentuates the waistline. The light blue wash offers versatility for pairing with various tops and creates a perfect summer casual look. Ideal for warm weather activities including beach trips, music festivals, casual shopping, outdoor barbecues, or vacation wear. The comfortable cotton construction allows for easy movement while maintaining the structured feel of quality denim. Perfect for creating vintage-inspired outfits, casual summer looks, or contemporary street style ensembles when paired with crop tops, t-shirts, or blouses.",
     sizes: ["26", "28", "30", "32"],
     colors: ["Light Blue"],
     material: "100% Cotton Denim",
@@ -295,14 +295,14 @@ export const data = [
   },
   {
     id: "20",
-    name: "Women’s Soft Knit Cardigan",
+    name: "Women's Soft Knit Cardigan",
     category: "Sweaters",
     images: [
       "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT5H6ggivrmwXYuFwdJh0IFjbxIO4gciaAC0GWRaoEuV7TMUaTnD9Q2HhtLiVA-asycnwNCcvZwDfDBSJivfgTpnTOfA9TdimtoMRR01iBQ",
     ],
     price: "54.99",
     description:
-      "Soft knit cardigan with button closure and relaxed fit. Perfect layering piece for any season.",
+      "A luxuriously soft knit cardigan made from a cozy 70% acrylic and 30% wool blend that provides warmth without heaviness. Features a classic button-front closure, relaxed fit that flatters all body types, and versatile styling options for layering over various outfits. The open-front design creates elegant draping while the quality knit construction maintains shape after washing. Available in sophisticated neutral tones including beige, light grey, and dusty pink that coordinate beautifully with both casual and dressy ensembles. Perfect for office environments, casual dinners, weekend activities, travel wear, or transitional season styling. Ideal for layering over dresses, t-shirts, blouses, or tank tops. The cardigan's timeless design makes it a valuable addition to any wardrobe, suitable for year-round wear in air-conditioned spaces or mild weather.",
     sizes: ["XS", "S", "M", "L", "XL"],
     colors: ["Beige", "Light Grey", "Dusty Pink"],
     material: "70% Acrylic, 30% Wool",
@@ -318,7 +318,7 @@ export const data = [
     ],
     price: "99.99",
     description:
-      "Sleek satin slip dress with adjustable spaghetti straps and side slit. Ideal for elegant evening wear.",
+      "A sleek and sophisticated satin slip dress crafted from luxurious 100% satin polyester that drapes beautifully against the body. Features delicate adjustable spaghetti straps for customized fit, a flattering bias cut that skims the figure elegantly, and a tasteful side slit that adds movement and allure. The smooth satin finish catches light beautifully, creating an expensive look perfect for special occasions. Available in timeless champagne and classic black colors that work for various formal events. Ideal for cocktail parties, romantic dinners, wedding guest attire, holiday celebrations, or any elegant evening occasion. The minimalist design allows for versatile styling with statement jewelry, blazers, or cardigans for different looks. Perfect for those who appreciate understated luxury and effortless sophistication in their formal wear.",
     sizes: ["XS", "S", "M", "L"],
     colors: ["Champagne", "Black"],
     material: "100% Satin Polyester",
@@ -327,14 +327,14 @@ export const data = [
   },
   {
     id: "22",
-    name: "Men’s Thermal Long Underwear",
+    name: "Men's Thermal Long Underwear",
     category: "Underwear",
     images: [
       "https://www.britishthermals.com/cdn/shop/products/R803PS-W_2eaf230a-d861-4dd7-9bd8-4b73b3a85d3b_2000x.jpg",
     ],
     price: "29.99",
     description:
-      "Thermal long underwear providing ultimate warmth and comfort. Made from soft, moisture-wicking fabric.",
+      "High-performance thermal long underwear designed to provide ultimate warmth and comfort during cold weather conditions. Made from an advanced 60% cotton and 40% polyester blend that offers excellent insulation properties while maintaining breathability and moisture-wicking capabilities. The soft fabric feels comfortable against the skin and moves with your body during various activities. Features a snug fit that works perfectly as a base layer under regular clothing without adding bulk. Available in practical grey and black colors that won't show through lighter outer garments. Essential for outdoor workers, winter sports enthusiasts, cold climate residents, or anyone spending extended time in low temperatures. Perfect for skiing, hiking, construction work, or daily wear during harsh winter months. The thermal properties help regulate body temperature while the cotton blend ensures comfort throughout the day.",
     sizes: ["S", "M", "L", "XL", "XXL"],
     colors: ["Grey", "Black"],
     material: "60% Cotton, 40% Polyester",
@@ -350,7 +350,7 @@ export const data = [
     ],
     price: "39.99",
     description:
-      "Genuine leather belt with metal buckle. Suitable for formal and casual wear.",
+      "A premium genuine leather belt featuring traditional craftsmanship and timeless design that complements both formal and casual attire. Made from high-quality leather that develops a beautiful patina with age, featuring a classic metal buckle with polished finish and precise stitching details. The versatile design works seamlessly with business suits, casual jeans, chinos, or dress pants. Available in essential black and brown colors that coordinate with various shoe colors and wardrobe pieces. Perfect for professional settings, formal events, casual wear, or gift-giving. The durable construction ensures long-lasting use while the classic styling remains fashionable across seasons and trends. Essential for any well-dressed individual's accessory collection, suitable for office environments, social events, or daily wear.",
     sizes: ["S", "M", "L", "XL"],
     colors: ["Black", "Brown"],
     material: "Genuine Leather",
@@ -359,14 +359,14 @@ export const data = [
   },
   {
     id: "24",
-    name: "Men’s Casual Hoodie",
+    name: "Men's Casual Hoodie",
     category: "Sweaters",
     images: [
       "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTen1-F6qhzPYMpkuXG8Odba8ZLlJa5aTMth_lzewlZgCn7dJCvTDwE9RhLkWIOV9W3jkZZGh1iB_4ujuF2UzYdekIpIzsi7yC5cKri0hjncSGB-U60ZwgzSg",
     ],
     price: "49.99",
     description:
-      "Comfortable casual hoodie with kangaroo pocket and adjustable drawstring hood.",
+      "A comfortable casual hoodie made from a soft 80% cotton and 20% polyester blend that provides warmth and comfort for everyday wear. Features a spacious kangaroo pocket perfect for storing essentials or keeping hands warm, an adjustable drawstring hood for customized coverage, and a relaxed fit that works for various body types. The fleece-lined interior offers cozy comfort while the durable construction withstands frequent washing. Available in versatile colors including navy, grey, and black that coordinate with jeans, joggers, or casual pants. Perfect for casual outings, gym sessions, lounging at home, college life, or layering under jackets during cooler weather. The classic pullover style makes it easy to throw on for quick errands, workout sessions, or relaxed social gatherings. Ideal for creating comfortable, effortless looks while maintaining a put-together appearance.",
     sizes: ["S", "M", "L", "XL", "XXL"],
     colors: ["Navy", "Grey", "Black"],
     material: "80% Cotton, 20% Polyester",
@@ -375,12 +375,12 @@ export const data = [
   },
   {
     id: "25",
-    name: "Women’s Wrap Around Blouse",
+    name: "Women's Wrap Around Blouse",
     category: "Shirts",
     images: ["https://m.media-amazon.com/images/I/71A3q+w04ZL.jpg"],
     price: "44.99",
     description:
-      "Stylish wrap-around blouse with tie waist and relaxed fit. Breathable fabric for everyday wear.",
+      "A stylish wrap-around blouse crafted from flowing 100% viscose fabric that drapes elegantly and feels comfortable against the skin. Features an adjustable tie waist that creates a flattering silhouette, a relaxed fit through the body, and versatile styling options that work for multiple occasions. The breathable viscose material makes it perfect for warm weather while the sophisticated design elevates casual and professional looks. Available in clean white and vibrant coral colors that complement various skin tones and coordinate with different bottoms. Perfect for office environments, brunch dates, casual meetings, weekend activities, or vacation wear. The wrap design allows for adjustable fit and comfort throughout the day. Ideal for pairing with dress pants, skirts, jeans, or shorts depending on the occasion and season.",
     sizes: ["XS", "S", "M", "L"],
     colors: ["White", "Coral"],
     material: "100% Viscose",
@@ -389,14 +389,14 @@ export const data = [
   },
   {
     id: "26",
-    name: "Men’s Running Shorts",
+    name: "Men's Running Shorts",
     category: "Pants",
     images: [
       "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR0O-dK78ImOGbVBcPQS7sJkv-8v8f0nKqJrW8BhM8Nq9Rfr9NfRMfRfdEFwAL6brI5zkiPqagiQegbp3i9DnAM8b2t3sgQeXuaLRjuEPafHGqnB8EjE52g",
     ],
     price: "24.99",
     description:
-      "Lightweight breathable running shorts with mesh lining and elastic waistband.",
+      "High-performance running shorts designed for active individuals who demand comfort and functionality during workouts. Made from lightweight 100% polyester fabric that wicks moisture away from the body and dries quickly after intense exercise. Features a breathable mesh lining for added ventilation, an elastic waistband with adjustable drawstring for secure fit, and side pockets for small essentials. The athletic cut allows for unrestricted movement during running, training, or sports activities. Available in classic black, vibrant blue, and energetic red colors that hide sweat and maintain appearance during workouts. Perfect for jogging, gym sessions, basketball, tennis, outdoor sports, or casual summer wear. The quick-dry technology makes these ideal for multiple daily activities or travel situations where quick laundering is needed.",
     sizes: ["S", "M", "L", "XL"],
     colors: ["Black", "Blue", "Red"],
     material: "100% Polyester",
@@ -405,14 +405,14 @@ export const data = [
   },
   {
     id: "27",
-    name: "Women’s Denim Shirt Dress",
+    name: "Women's Denim Shirt Dress",
     category: "Dresses",
     images: [
       "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS-VIlLED1mTjSVobI5BUcTA7ILpsWdkqNseZQJoNKJdX93Zpkxtjxlf0QkNfaNFvu1NCY7A4W17AxsF22v7y8uGz-NQNpCm-wBnIG5i5g58L31DsKI75smoQ",
     ],
     price: "69.99",
     description:
-      "Casual denim shirt dress with button front and rolled sleeves. Versatile and comfortable.",
+      "A versatile denim shirt dress crafted from comfortable 100% cotton denim that combines casual ease with put-together style. Features a classic button-front closure that can be worn fully buttoned or open as a light jacket, rolled sleeves for adjustable coverage, and a relaxed fit that flatters various body types. The light blue wash offers a fresh, casual appearance that works for multiple seasons and occasions. Perfect for weekend brunches, casual Fridays, shopping trips, picnics, or vacation wear. The shirt dress design allows for versatile styling - wear it alone with sandals or sneakers, layer over leggings or jeans, or tie at the waist for a more fitted silhouette. Ideal for creating effortless, comfortable looks that maintain a polished appearance throughout busy days.",
     sizes: ["XS", "S", "M", "L", "XL"],
     colors: ["Light Blue"],
     material: "100% Cotton Denim",
@@ -428,7 +428,7 @@ export const data = [
     ],
     price: "139.99",
     description:
-      "Elegant leather ankle boots with side zipper and stacked heel, perfect for year-round wear.",
+      "Elegant leather ankle boots crafted from premium genuine leather with superior construction and attention to detail. Features a convenient side zipper for easy on/off, a stylish stacked heel that adds height while maintaining comfort, and versatile design suitable for year-round wear. The quality leather upper develops character with age while providing durability and weather resistance. Available in timeless black and rich brown colors that coordinate with various outfits from casual jeans to professional attire. Perfect for office environments, date nights, casual outings, travel, or transitional season styling. The comfortable heel height makes them suitable for all-day wear while the ankle height provides support and style. Ideal for building a capsule wardrobe with versatile footwear that works for multiple occasions and seasons.",
     sizes: ["6", "7", "8", "9", "10"],
     colors: ["Black", "Brown"],
     material: "Genuine Leather",
@@ -437,14 +437,14 @@ export const data = [
   },
   {
     id: "29",
-    name: "Men’s Classic Henley Shirt",
+    name: "Men's Classic Henley Shirt",
     category: "Shirts",
     images: [
       "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOmefyKo9i5sgddi3xZWc4FKeuC-G6C_lrDur4JwNEvoRQ6rCBcqwIZ0pciWq-falKJo2Fc8KTHhNXMn_pCZbWZc9X5Fvkva6NZuVEwEAG38CWOWYm21PnDw",
     ],
     price: "29.99",
     description:
-      "Classic Henley shirt with three-button placket, soft cotton fabric, and casual fit.",
+      "A classic Henley shirt featuring traditional three-button placket design and timeless casual appeal. Made from soft 100% cotton fabric that feels comfortable against the skin and improves with age and washing. The casual fit works well for various body types while the button placket adds subtle detail that elevates it above basic t-shirts. Available in versatile colors including navy, grey, and white that coordinate with jeans, chinos, or shorts. Perfect for weekend activities, casual dining, layering under jackets or cardigans, or creating relaxed yet put-together looks. The Henley style bridges casual and smart-casual dress codes, making it suitable for various social settings. Ideal for men who appreciate classic American casual style with comfortable, quality construction that withstands frequent wear and washing.",
     sizes: ["S", "M", "L", "XL", "XXL"],
     colors: ["Navy", "Grey", "White"],
     material: "100% Cotton",
@@ -460,7 +460,7 @@ export const data = [
     ],
     price: "59.99",
     description:
-      "Lightweight casual slip-on sneakers made with breathable mesh fabric and rubber sole.",
+      "Comfortable casual slip-on sneakers designed for all-day comfort and easy wear. Made with breathable mesh fabric upper that promotes airflow and keeps feet cool during various activities. Features a durable rubber sole that provides excellent traction and long-lasting wear, plus convenient slip-on design that eliminates the need for laces. The lightweight construction makes them perfect for travel, daily errands, casual outings, or workplace environments that allow sneakers. Available in versatile white, grey, and black colors that coordinate with various casual outfits. Perfect for busy lifestyles, travel, gym visits, dog walking, or any situation requiring comfortable, reliable footwear. The modern design works well with jeans, shorts, casual pants, or athleisure wear while providing the comfort needed for active days.",
     sizes: ["7", "8", "9", "10", "11"],
     colors: ["White", "Grey", "Black"],
     material: "Mesh Fabric and Rubber",
@@ -476,7 +476,7 @@ export const data = [
     ],
     price: "39.99",
     description:
-      "Breathable cotton wrap skirt with tie closure and classic A-line fit.",
+      "A feminine cotton wrap skirt made from breathable 100% cotton fabric that provides comfort and elegance for warm weather wear. Features an adjustable tie closure that creates a customizable fit, a classic A-line silhouette that flatters various body types, and versatile styling options for different occasions. The natural cotton construction allows for airflow while maintaining structure and shape throughout the day. Available in vibrant red and classic navy colors that work well with various tops and accessories. Perfect for summer outings, beach vacations, picnics, casual dining, or creating effortless feminine looks. The wrap design allows for easy adjustment and comfort while sitting or moving. Ideal for pairing with sandals, espadrilles, or casual flats, and works beautifully with both fitted and flowing tops.",
     sizes: ["XS", "S", "M", "L"],
     colors: ["Red", "Navy"],
     material: "100% Cotton",
@@ -485,14 +485,14 @@ export const data = [
   },
   {
     id: "32",
-    name: "Men’s Quilted Vest",
+    name: "Men's Quilted Vest",
     category: "Jackets",
     images: [
       "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSHwaLukxqIZYKitJV-AE1febI1eGnI_lzHFW9uvUg51AqKGfpwgOy2B_oAoU4rzckRG4kzSvNx-63-S6KWBb4NV4JB35R6BWZwbOlD3B5J-c9nqj1xclO8",
     ],
     price: "59.99",
     description:
-      "Lightweight quilted vest with zip closure and side pockets, perfect for layering.",
+      "A lightweight quilted vest made from durable polyester with insulating quilted construction that provides core warmth without restricting arm movement. Features a full-zip closure for easy layering, practical side pockets for essentials, and a sleek design that works over shirts, sweaters, or under jackets. The vest design allows for versatile layering options perfect for transitional weather when you need extra warmth but full sleeves would be too much. Available in practical olive and classic black colors that coordinate with various outdoor and casual clothing. Perfect for hiking, camping, outdoor work, casual weekends, or creating layered looks during spring and fall. The quilted insulation provides warmth while remaining lightweight and packable for travel or storage. Ideal for active individuals who need flexible layering options for changing weather conditions.",
     sizes: ["S", "M", "L", "XL"],
     colors: ["Olive", "Black"],
     material: "Polyester",
@@ -508,7 +508,7 @@ export const data = [
     ],
     price: "89.99",
     description:
-      "Tailored lightweight blazer with a single button closure, perfect for office or events.",
+      "A tailored lightweight blazer crafted from comfortable polyester blend fabric that provides structure without weight or stiffness. Features a sophisticated single-button closure, clean lines that create a polished silhouette, and versatile styling that transitions seamlessly from office to evening events. The lightweight construction makes it comfortable for all-day wear while maintaining professional appearance. Available in classic navy and timeless black colors that coordinate with various wardrobe pieces. Perfect for business meetings, professional presentations, networking events, dinner dates, or any occasion requiring polished, put-together appearance. The blazer elevates casual outfits when paired with jeans or adds finishing touch to dresses and professional separates. Essential for building a versatile professional wardrobe that works for multiple settings and seasons.",
     sizes: ["XS", "S", "M", "L", "XL"],
     colors: ["Navy", "Black"],
     material: "Polyester Blend",
@@ -524,7 +524,7 @@ export const data = [
     ],
     price: "199.99",
     description:
-      "Luxurious faux fur coat with full-length sleeves, perfect for cold winters and stylish evenings.",
+      "A luxurious faux fur coat that provides exceptional warmth and glamorous style for cold weather occasions. Made from high-quality synthetic fur that mimics the look and feel of genuine fur while being cruelty-free and more affordable. Features full-length sleeves for complete coverage, a generous fit that allows for layering, and plush texture that adds luxury to any outfit. Available in elegant cream and rich brown colors that complement various skin tones and coordinate with winter accessories. Perfect for formal winter events, holiday parties, theater outings, upscale dining, or any cold-weather occasion requiring sophisticated outerwear. The statement-making design elevates evening wear while providing practical warmth during harsh winter conditions. Ideal for special occasions or for those who appreciate luxury fashion with ethical considerations.",
     sizes: ["S", "M", "L"],
     colors: ["Cream", "Brown"],
     material: "Faux Fur",
@@ -533,12 +533,12 @@ export const data = [
   },
   {
     id: "35",
-    name: "Men’s Casual Canvas Backpack",
+    name: "Men's Casual Canvas Backpack",
     category: "Accessories",
     images: ["https://m.media-amazon.com/images/I/51FerAvtoLL._UY1100_.jpg"],
     price: "79.99",
     description:
-      "Durable canvas backpack with multiple compartments and padded shoulder straps. Great for daily use.",
+      "A versatile canvas backpack designed for daily use with durable construction and practical functionality. Made from sturdy canvas material that withstands regular use while developing character with age. Features multiple compartments including a main compartment for books or laptop, front pocket for easy access items, and side pockets for water bottles or small essentials. The padded shoulder straps ensure comfortable carrying during extended use while adjustable straps accommodate different body sizes. Available in classic tan and modern grey colors that work well for various settings from campus to office to travel. Perfect for students, professionals, commuters, travelers, or anyone needing reliable daily carry solution. The timeless canvas construction and neutral colors make it suitable for various age groups and style preferences while providing practical organization for modern lifestyles.",
     sizes: [],
     colors: ["Tan", "Grey"],
     material: "Canvas",

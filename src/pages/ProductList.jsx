@@ -26,7 +26,7 @@ export default function ProductList() {
               <h2 className="text-lg font-semibold text-gray-800 mb-1">
                 {product.name}
               </h2>
-              <p className="text-gray-500">Rs. {product.price}</p>
+              <p className="text-gray-500">${product.price}</p>
             </div>
           </Link>
         ))}
